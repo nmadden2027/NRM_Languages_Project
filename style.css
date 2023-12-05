@@ -1,0 +1,50 @@
+body {
+    background-color: beige;
+     color: black;
+     text-align: left
+    
+}
+p {
+    color: black;
+    border-style: solid;
+    text-align: center;
+    margin-top: 0;
+    height: 100%;
+    width: 50%;
+    padding: 10px;
+}
+h2 {
+    padding: 10px;
+}
+li{
+    color: red;
+    border-style: solid;
+    text-align: center;
+    margin-top: 0;
+    height: 100%;
+    width: 48%;
+    padding: 15px;
+    font-size: large;
+    text-decoration: underline;
+    
+}
+summary {
+    color: black;
+    border-style: solid;
+    text-align: center;
+    margin-top: 0;
+    height: 100%;
+    width: 50%;
+    padding: 10px;
+    font-size: larger;
+    text-decoration: underline;
+}
+img {
+    float: right;
+}
+ol {
+    list-style-type: upper-roman;
+  }
+  ul {
+    list-style-type: square;
+  }
